@@ -1,0 +1,9 @@
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\bin\Debug\NCWinform.exe.config
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\bin\Debug\NCWinform.exe
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\bin\Debug\NCWinform.pdb
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\obj\Debug\NCWinform.csprojResolveAssemblyReference.cache
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\obj\Debug\NCWinform.Form1.resources
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\obj\Debug\NCWinform.Properties.Resources.resources
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\obj\Debug\NCWinform.csproj.GenerateResource.Cache
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\obj\Debug\NCWinform.exe
+E:\研究生文件\KSManchine\FANUC\FANUCNC\NCWinform\NCWinform\obj\Debug\NCWinform.pdb
